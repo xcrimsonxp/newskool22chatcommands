@@ -1,0 +1,45 @@
+Commands List :     
+!lurk		
+!twitter
+!followage	
+!hug		
+!so	
+!enter	
+!fc	
+!trashpanda
+!rules
+!merch
+
+Viewer Queue commands:
+!join ---- Join Queue.
+!leave ----- Leave Queue.
+!list ---- Get current Queue.
+!posGet ---- position in Queue.
+
+Loyalty Points
+!points	Displays the amount of currency the user has.	
+!top	Displays a list of Top users based on points.	
+!tophours	Displays a list of Top users based on hours.	
+
+Heist
+!heist	Allows viewers to start a heist.	
+
+Bettting
+!bet	Register your bet.
+!mybet	Check what you have bet on.
+	
+
+Gamble
+!gamble	Allows viewers to gamble using their points.		
+
+Eight Ball
+!8ball	Allows viewers to ask questions to eight ball.
+ 
+Slots	
+!slots	Allows viewers to gamble points on the slot machine.	Everyone		
+
+Duel
+!duel	Allows viewers to duel with each other for points.
+!accept	Allows viewer to accept a duel.
+!deny	Allows viewer to deny a duel.	
+!cancel	Allows viewer to cancel the initiated duel.
